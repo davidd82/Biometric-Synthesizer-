@@ -1,5 +1,1 @@
-### Todos
-- [ ] find normal analogue values for each sensor
-- [ ] implement MIDI mapping
-- [ ] implement BPM calculation and message making
-- [ ] test existing code with the actual components...
+Report Link: [Biometric Synthesizer](https://docs.google.com/document/d/1-J__tKPp2eZoiNbOG2mfX9P68V30CRR98wiohOnByQk/edit?usp=sharing)
